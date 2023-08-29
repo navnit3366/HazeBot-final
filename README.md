@@ -1,0 +1,2 @@
+## WARNING!
+This bot was made with an older version of discordpy and discord-py-interactions (now discord-interactions). It may work but will not guarantee all functionality fully since it was poorly worked (this is the 3rd bot I worked on in a short period of time). This is for experimental and/or educational use. You are more than welcome to fork it and use it for your own uses but not allowed to sell it in any way or form.
